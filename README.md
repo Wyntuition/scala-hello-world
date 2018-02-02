@@ -5,3 +5,9 @@
 1. Install sbt (on MacOS, run `brew install sbt`)
 
 1. Create a new folder for your source and run `sbt new scala/hello-world`
+
+1. Run the project by going into the hello-world-template folder and running `sbt` then `~run` in the console. The ~ is optional and causes sbt to re-run on every file save allowing to a rapid development workflow.
+
+## Next steps
+
+* [Using monads in Scala](https://medium.com/@sinisalouc/demystifying-the-monad-in-scala-cc716bb6f534)
